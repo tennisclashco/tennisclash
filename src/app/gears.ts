@@ -1,7 +1,6 @@
 export const GEARS = {
   "Character": [
     {
-      "url": "https://tennis-clash.fandom.com/wiki/Jonah",
       "name": "Jonah",
       "foundIn": "",
       "rarity": "",
